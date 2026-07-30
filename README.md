@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="assets/banner.png" alt="Project Banner" width="100%">
+<img src="assets/banner.png" alt="C:\Users\Micro\Downloads\AI_Food_Waste_Prediction.png" width="100%">
 
 </p>
 
