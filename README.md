@@ -537,7 +537,7 @@ screenshots/home.png
 > Add screenshot here
 
 ```
-screenshots/prediction.png
+"C:\Users\Micro\Pictures\Screenshots\Screenshot 2026-07-30 053526.png"
 ```
 
 ---
@@ -547,8 +547,7 @@ screenshots/prediction.png
 > Add screenshot here
 
 ```
-screenshots/dashboard.png
-```
+C:\Users\Micro\Pictures\Screenshots\Screenshot 2026-07-30 053549.png```
 
 ---
 
@@ -557,7 +556,7 @@ screenshots/dashboard.png
 > Add screenshot here
 
 ```
-screenshots/report.png
+C:\Users\Micro\Pictures\Screenshots\Screenshot 2026-07-30 053918.png
 ```
 
 ---
