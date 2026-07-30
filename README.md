@@ -2,12 +2,6 @@
 
 <p align="center">
 
-<img src="assets/banner.png" alt="C:\Users\Micro\Downloads\AI_Food_Waste_Prediction.png" width="100%">
-
-</p>
-
-<p align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit)
