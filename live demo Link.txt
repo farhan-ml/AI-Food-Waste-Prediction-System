@@ -1,0 +1,6 @@
+﻿Project 1: Live Demo
+
+
+
+
+https://ai-food-waste-prediction-system-2jav46qramv3h9jlgwaslx.streamlit.app/
